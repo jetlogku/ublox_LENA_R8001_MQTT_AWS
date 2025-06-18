@@ -1,5 +1,5 @@
 # ublox_LENA_R8001_MQTT_AWS
-Using Adafruit Itsybitsy M4 and LENA R8001 to publish MQTT data to AWS IoT Core
+I’m seeking assistance from u-blox or others regarding this issue. I am using Adafruit Itsybitsy M4 and LENA R8001 to publish MQTT data to AWS IoT Core
 I am currently experiencing an MQTT error:+UMQTTER:13,4 which occurs during the `AT+UMQTTC=1` connection attempt
 ## 🧰 Hardware
 
